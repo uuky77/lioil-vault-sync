@@ -1,0 +1,11 @@
+{
+  "id": "lioil-vault-sync",
+  "name": "Lioil Vault Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Multi-cloud vault sync: Baidu Netdisk, Aliyun Drive, WebDAV, S3 and more.",
+  "author": "Lioil",
+  "authorUrl": "https://github.com/lioil",
+  "fundingUrl": "",
+  "isDesktopOnly": true
+}
