@@ -1,5 +1,4 @@
-[中文版](https://github.com/uuky77/lioil-vault-sync/blob/master/README_ZH.md)
- # Lioil Vault Sync
+﻿# Lioil Vault Sync
 
 Multi-cloud vault sync plugin for [Obsidian](https://obsidian.md). Sync your vault to multiple cloud providers.
 
